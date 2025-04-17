@@ -1,1 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap");
 @import "tailwindcss";
+
+@theme {
+  --font-noto: "Noto Sans", sans-serif;
+}
+
+html {
+  font-size: 10px;
+  font-family: "Noto Sans", sans-serif !important;
+  font-weight: 400;
+}
+
+@layer components {
+  .max-width {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    box-sizing: border-box;
+  }
+}
