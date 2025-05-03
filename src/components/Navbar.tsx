@@ -23,7 +23,7 @@ const Navbar = () => {
         <a href="#">
           <img
             className="w-[110px] h-[80px] max-md:w-[80px] max-md:h-[60px]"
-            src="./src/assets/img/common/emman-cctv-logo.jpg"
+            src="/company-landing/assets/img/common/emman-cctv-logo.jpg"
             alt="Emman CCTV Logo"
           />
         </a>

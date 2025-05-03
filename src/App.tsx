@@ -8,7 +8,7 @@ function App() {
     <>
       <main>
         <Navbar />
-        <section className="h-screen w-full flex-center bg-[url(/src/assets/img/sections/mv-bg.jpg)] bg-cover bg-no-repeat bg-center">
+        <section className="h-screen w-full flex-center bg-[url(/company-landing/assets/img/sections/mv-bg.jpg)] bg-cover bg-no-repeat bg-center">
           <div className="max-width">
             <div className="text-[#ffff] px-[20px]" data-aos="fade-up">
               <h1 className="text-[5rem] max-md:text-[30px]">
@@ -47,7 +47,7 @@ function App() {
               </div>
               <div
                 data-aos="fade-left"
-                className="rounded-4xl h-[500px] w-[100%] max-w-[600px] bg-[url(/src/assets/img/sections/about-img.jpg)] bg-cover bg-no-repeat bg-center"
+                className="rounded-4xl h-[500px] w-[100%] max-w-[600px] bg-[url(/company-landing/assets/img/sections/about-img.jpg)] bg-cover bg-no-repeat bg-center"
               ></div>
             </div>
 
@@ -74,42 +74,42 @@ function App() {
                     <SplideSlide>
                       <img
                         className="splide-img"
-                        src="./src/assets/img/sections/client-1.jpg"
+                        src="/company-landing/assets/img/sections/client-1.jpg"
                         alt="Image 1"
                       />
                     </SplideSlide>
                     <SplideSlide>
                       <img
                         className="splide-img"
-                        src="./src/assets/img/sections/client-2.jpg"
+                        src="/company-landing/assets/img/sections/client-2.jpg"
                         alt="Image 1"
                       />
                     </SplideSlide>
                     <SplideSlide>
                       <img
                         className="splide-img"
-                        src="./src/assets/img/sections/client-3.jpg"
+                        src="/company-landing/assets/img/sections/client-3.jpg"
                         alt="Image 1"
                       />
                     </SplideSlide>
                     <SplideSlide>
                       <img
                         className="splide-img"
-                        src="./src/assets/img/sections/client-4.jpg"
+                        src="/company-landing/assets/img/sections/client-4.jpg"
                         alt="Image 1"
                       />
                     </SplideSlide>
                     <SplideSlide>
                       <img
                         className="splide-img"
-                        src="./src/assets/img/sections/client-5.jpg"
+                        src="/company-landing/assets/img/sections/client-5.jpg"
                         alt="Image 1"
                       />
                     </SplideSlide>
                     <SplideSlide>
                       <img
                         className="splide-img"
-                        src="./src/assets/img/sections/client-6.jpg"
+                        src="/company-landing/assets/img/sections/client-6.jpg"
                         alt="Image 1"
                       />
                     </SplideSlide>
