@@ -24,7 +24,7 @@ function App() {
         </section>
 
         <section
-          className="pt-[60px] pl-[3%] pr-[3%] flex-center flex-col bg-[#1a2c5c] px-[30px] max-md:py-[30px]"
+          className="w-full pt-[60px] pl-[3%] pr-[3%] flex-center flex-col bg-[#1a2c5c] px-[30px] max-md:py-[30px]"
           id="about"
         >
           <div className="max-width" >
@@ -130,7 +130,7 @@ function App() {
         </section>
 
         <section
-          className="pt-[60px] pl-[3%] pr-[3%] bg-[#1a2c5c] max-md:py-[30px]"
+          className="w-full pt-[60px] pl-[3%] pr-[3%] bg-[#1a2c5c] max-md:py-[30px]"
           id="services"  
         >
           <div className="max-width">
@@ -232,7 +232,7 @@ function App() {
         </section>
 
         <section
-          className="pt-[60px] pl-[3%] pr-[3%] flex-center flex-col bg-[#1a2c5c]"
+          className="w-full pt-[60px] pl-[3%] pr-[3%] flex-center flex-col bg-[#1a2c5c]"
           id="contact"
         >
           <div className="max-width">
