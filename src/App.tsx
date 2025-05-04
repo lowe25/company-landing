@@ -6,7 +6,7 @@ import { Splide, SplideTrack, SplideSlide } from "@splidejs/react-splide";
 function App() {
   return (
     <>
-      <main>
+      <main className="overflow-hidden">
         <Navbar />
         <section className="h-screen w-full flex-center bg-[url(/company-landing/assets/img/sections/mv-bg.jpg)] bg-cover bg-no-repeat bg-center">
           <div className="max-width">
